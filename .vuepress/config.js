@@ -2,6 +2,7 @@ module.exports = {
     "title": "recodome",
     "description": "recodemo",
     "dest": "public",
+
     "head": [
         [
             "link",
